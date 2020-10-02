@@ -1,5 +1,7 @@
+<h3> Whatsapp Web - Clone </h3>
+
 <h1 align="center">
-    <img alt="Pokedex" title="#NextLevelWeek" src="https://i.imgur.com/dnt1lLo.png" />
+    <img alt="WhatsappWeb" title="WhatsAppWeb" src="https://i.imgur.com/dnt1lLo.png" />
 </h1>
 
 <p align="center">
@@ -22,7 +24,7 @@
 
 ## 💻 Sobre o projeto
 
-<img src="https://cdn0.iconfinder.com/data/icons/social-media-2233/512/Whatsapp-32.png"/> Whatsapp Web - Um Clone simples da ui do Whatsapp Web usando Material Ui && Typescript
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/WhatsApp-16.png"/> Whatsapp Web - Um Clone simples da ui do Whatsapp Web usando Material Ui && Typescript
 
 ## 🛠 Tecnologias
 
